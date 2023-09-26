@@ -12,6 +12,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on V12Software Company Located in Casablance/Morocco.
-- 📫 Reach me on Linkedin @oboualla 
+🔭 I’m currently working on V12Software Company Located in Casablance/Morocco.
+📫 Reach me on Linkedin @oboualla 
 </div>
