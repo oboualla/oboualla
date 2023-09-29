@@ -15,5 +15,5 @@
 🔭 I’m currently working on V12Software Company Located in Casablance/Morocco.</br>
 📫 Reach me on Linkedin @oboualla.</br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Show+some+❤️+by+starring+some+of+the+repositories!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Show+some+❤️;by+starring+some+of+the+repositories!)](https://git.io/typing-svg)
 </div>
