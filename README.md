@@ -13,7 +13,7 @@
 </p>
 
 🔭 I’m currently working on V12Software Company Located in Casablance/Morocco.</br>
-📫 Reach me on Linkedin @oboualla.</br>
+📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/oboualla">@oboualla</a>.</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=❤️+star+some+of+the+repos!+❤️)](https://git.io/typing-svg)
 </div>
