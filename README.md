@@ -12,7 +12,7 @@
   </a>
 </p>
 
-🔭 I’m currently working on V12Software Company Located in Casablance/Morocco.</br>
+🔭 I’m currently working on Jobase Company Located in New York/United state.</br>
 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/oboualla">@oboualla</a>.</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=❤️+star+some+of+the+repos!+❤️)](https://git.io/typing-svg)
